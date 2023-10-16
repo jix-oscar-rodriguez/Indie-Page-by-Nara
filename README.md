@@ -7,6 +7,9 @@ This is my version of the challenge of (https://codewell.cc )
 --------------------------------------------------------------------------------
 ![girl-cute-anime-Love-lab-1044427](https://github.com/jix-oscar-rodriguez/Indie-Page-by-Nara/assets/127907655/a6823409-1d7b-4426-b0ad-da733b7e96a7)
 
+
+Remember that you can use this file, modify it for your projects or work. Remember that I am a newbie in programming so any help or error you can solve can be sent to me by email: oscar.rodriguez.p.programacion@gmail.com
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/jix-oscar-rodriguez/Indie-Page-by-Nara/assets/127907655/93ce792b-5905-4bba-b1ef-8f16b9020ab9)
 ![image](https://github.com/jix-oscar-rodriguez/Indie-Page-by-Nara/assets/127907655/c790386c-5c69-40e5-9732-038a40d311d7)
@@ -21,4 +24,3 @@ This is my version of the challenge of (https://codewell.cc )
 
 
 
-Remember that you can use this file, modify it for your projects or work. Remember that I am a newbie in programming so any help or error you can solve can be sent to me by email: oscar.rodriguez.p.programacion@gmail.com
