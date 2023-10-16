@@ -8,7 +8,8 @@ This is my version of the challenge of (https://codewell.cc )
 ![girl-cute-anime-Love-lab-1044427](https://github.com/jix-oscar-rodriguez/Indie-Page-by-Nara/assets/127907655/a6823409-1d7b-4426-b0ad-da733b7e96a7)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/jix-oscar-rodriguez/Indie-Page-by-Nara/assets/127907655/ffe3a721-c5b5-4455-8ee6-baabe45c9623)
+![image](https://github.com/jix-oscar-rodriguez/Indie-Page-by-Nara/assets/127907655/93ce792b-5905-4bba-b1ef-8f16b9020ab9)
+
 
 
 Remember that you can use this file, modify it for your projects or work. Remember that I am a newbie in programming so any help or error you can solve can be sent to me by email: oscar.rodriguez.p.programacion@gmail.com
